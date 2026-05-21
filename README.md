@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/its-your-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for It’s Your Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/its-your-love/) |
+| **Get License** | [Secure Licensing Rights for It’s Your Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/its-your-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Feel the heavy bass bumping as the midnight sets in
+> I am craving the taste of your beautiful skin
+> We can chase the horizon until the morning light
+> (Holding you tight) Everything feels so right
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

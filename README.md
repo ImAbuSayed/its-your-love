@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/its-your-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for It’s Your Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/its-your-love/) |
+| **Get License** | [License this song: It’s Your Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/its-your-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `21dd23cf16da0a85dbe4f3eaeb02ecffe5e22857027f4ad0856cb9befa9186a7` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

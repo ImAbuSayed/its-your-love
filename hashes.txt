@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - It’s Your Love
+
+This log tracks the cryptographic history and versioning for the song **It’s Your Love** (its-your-love).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T05:19:17.060918 | `v1` | `21dd23cf16da0a85dbe4f3eaeb02ecffe5e22857027f4ad0856cb9befa9186a7` | `039f2931e56923198115a1c8c0391b419f77644a0943f734ded017827a3b94e4` | `2026-05-22_its-your-love-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
